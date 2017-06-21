@@ -1,0 +1,46 @@
+{
+ "p_values_statistical_testing": {
+    "tags": ["Python", "Statistics"],
+    "title": "Hypothesis testing and the origin of p-values"
+  },
+
+  "github_hosting_documentation": {
+    "tags": ["Python"],
+    "title": "Hosting Sphinx documentation on GitHub"
+  },
+
+  "men_have_journals_women_have_diaries": {
+    "tags": [
+      "feminism",
+      "humanism"
+    ],
+    "title": "Men have journals, women have diaries"
+  },
+
+  "body_fat_percentage": {
+    "tags": [
+      "Python", 
+      "regression", 
+      "health"
+    ], 
+    "title": "Body Fat Percentage"
+  }, 
+
+  "yelp_timeline": {
+    "tags": [
+      "Python", 
+      "Gaussian process", 
+      "web scraping"
+    ], 
+    "title": "Yelp Rating Timelines"
+  },
+  
+  "ab_testing_with_sampyl": {
+    "tags": [
+      "Python", 
+      "MCMC", 
+      "Sampyl"
+    ], 
+    "title": "A/B testing with Sampyl"
+  }
+}
